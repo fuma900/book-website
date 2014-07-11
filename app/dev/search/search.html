@@ -1,0 +1,6 @@
+<ul>
+  <h2>Searching for {{ q }}</h2>
+  <li ng-repeat="book in books">
+    <p><a ng-href="{{ book.selfLink }}" target="_blank">{{ book.volumeInfo.title }}</a></p>
+  </li>
+</ul>

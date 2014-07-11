@@ -1,0 +1,28 @@
+{
+  "name": "outdoorxp-angularjs",
+  "version": "0.0.1",
+  "authors": [
+    "Marco Fumagalli <fuma900@gmail.com>"
+  ],
+  "description": "Outdoor Experience Website powered by AngularJs",
+  "license": "MIT",
+  "homepage": "fuma900.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.3.0-beta.11",
+    "angular-route": "1.3.0-beta.11",
+    "angular-bootstrap": "0.11.0",
+    "html5-boilerplate": "4.3.0",
+    "bootstrap": "3.2.0",
+    "angular-loading-bar": "~0.4.3",
+    "angular-ui-router": "~0.2.10"
+  }
+}
